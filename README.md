@@ -1,2 +1,2 @@
-# TheRealChiwoo.github.io
-Welcome to my website!
+Website Template
+Feel free to use this template.
